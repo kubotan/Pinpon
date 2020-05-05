@@ -1,0 +1,2 @@
+# config.yml
+api-url: "http://localhost/serial-port.php"

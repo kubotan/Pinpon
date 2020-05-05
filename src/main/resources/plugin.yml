@@ -1,0 +1,12 @@
+main: space.gorogoro.pinpon.Pinpon
+name: Pinpon
+version: 1.1
+api-version: 1.15
+description: ピンポン(パトライト点灯用)プラグイン
+author: kubotan
+website: https://gorogoro.space/
+
+commands:
+  pinpon:
+    description: コマンドブロックでピンポンを提供します。
+    usage: §c/<command> (param)§7- コマンドブロックでピンポンを提供します。
